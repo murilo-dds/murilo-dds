@@ -42,14 +42,24 @@
 
 <div align="center">
 
-![Murilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-dds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- Stats principais -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=murilo-dds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  height="165" 
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-dds&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Linguagens -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-dds&layout=compact&theme=tokyonight&hide_border=true" 
+  height="165"
+/>
 
-![Streak](https://streak-stats.demolab.com/?user=murilo-dds&theme=tokyonight&hide_border=true)
+<!-- Streak (funcionando) -->
+<img 
+  src="https://streak-stats.demolab.com?user=murilo-dds&theme=tokyonight&hide_border=true"
+/>
 
 </div>
-
 ---
 
 ## 📂 Projetos em Destaque
