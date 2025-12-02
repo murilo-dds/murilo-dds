@@ -56,7 +56,7 @@
 
 <!-- Streak (funcionando) -->
 <img 
-  src="https://streak-stats.demolab.com?user=murilo-dds&theme=tokyonight&hide_border=true"
+  src="[https://streak-stats.demolab.com?user=murilo-dds&theme=tokyonight&hide_border=tru](https://streak-stats.demolab.com?user=murilo-dds)e"
 />
 
 </div>
